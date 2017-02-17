@@ -1,0 +1,14 @@
+{
+  "name": "inventory-db",
+  "version": "1.0.0",
+  "description": "dummy database for inventory management project",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch data/db.json --port 4000"
+  },
+  "devDependencies": {
+    "json-server": "0.9.5"
+  },
+  "author": "Bhushan Goel",
+  "license": "ISC"
+}
