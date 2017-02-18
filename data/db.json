@@ -15,6 +15,14 @@
       "price": "10000",
       "quantity": 5,
       "id": 3
+    },
+    {
+      "name": "Apple Macbook Pro Core i5",
+      "desc": "If you are looking for a high-end laptop with plenty of features and high-performance, then what you need to be doing is investing in this Apple MacBook Pro. Stylish and powerful, this laptop delivers seamless multitasking and lag-free computing for maximum efficiency and productivity.",
+      "category": "Electronics",
+      "price": "55000",
+      "quantity": 5,
+      "id": 4
     }
   ],
   "categories": [
