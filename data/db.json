@@ -1,6 +1,21 @@
 {
   "products": [
-
+    {
+      "name": "Cracking the coding interview",
+      "desc": "interview preparation book",
+      "category": "Books",
+      "price": "500",
+      "quantity": 20,
+      "id": 2
+    },
+    {
+      "name": "Cycle",
+      "desc": "Cycle with gears",
+      "category": "Fitness",
+      "price": "10000",
+      "quantity": 5,
+      "id": 3
+    }
   ],
   "categories": [
     "Beverage",
