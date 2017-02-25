@@ -39,7 +39,8 @@
   ],
   "users": [
     {
-      "username": "admin",
+      "name": "admin",
+      "email": "admin@gmail.com",
       "password": "pass"
     }
   ]
