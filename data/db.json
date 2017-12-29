@@ -422,16 +422,12 @@
     }
   ],
   "categories": [
-    "Beverage",
-    "Clothes",
-    "Electronics",
-    "Books",
-    "Furniture",
-    "Stationary",
-    "Automobiles",
-    "Fitness",
-    "Gaming",
-    "Mobiles"
+    "electronics",
+    "clothes",
+    "skin-care",
+    "home-decor",
+    "stationary",
+    "automobiles"
   ],
   "users": [
     {

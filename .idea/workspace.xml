@@ -29,12 +29,11 @@
       <file leaf-file-name="db.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/data/db.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="442" column="1" selection-start-line="442" selection-start-column="1" selection-end-line="442" selection-end-column="1" />
+            <state relative-caret-position="150">
+              <caret line="437" column="3" selection-start-line="437" selection-start-column="3" selection-end-line="437" selection-end-column="3" />
               <folding>
                 <element signature="e#16#13753#0" expanded="false" />
-                <element signature="e#13771#13936#0" expanded="false" />
-                <element signature="e#13949#14048#0" expanded="false" />
+                <element signature="e#13894#13993#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -232,7 +231,7 @@
       <workItem from="1488055267263" duration="341000" />
       <workItem from="1492330157121" duration="64000" />
       <workItem from="1503052059802" duration="24000" />
-      <workItem from="1514549502181" duration="52000" />
+      <workItem from="1514549502181" duration="468000" />
     </task>
     <task id="LOCAL-00001" summary="procfile added for heroku">
       <created>1487333081356</created>
@@ -269,11 +268,18 @@
       <option name="project" value="LOCAL" />
       <updated>1488055324294</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="product json added">
+      <created>1514549566486</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1514549566486</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6602000" />
+    <option name="totallyTimeSpent" value="7018000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -284,7 +290,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3022388" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4800995" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4800995" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -324,7 +330,8 @@
     <MESSAGE value="changing port to dynamic" />
     <MESSAGE value="removing corrupt data from heroku" />
     <MESSAGE value="db changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="db changes" />
+    <MESSAGE value="product json added" />
+    <option name="LAST_COMMIT_MESSAGE" value="product json added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -337,8 +344,7 @@
           <caret line="45" column="3" selection-start-line="45" selection-start-column="3" selection-end-line="45" selection-end-column="3" />
           <folding>
             <element signature="e#16#13753#0" expanded="false" />
-            <element signature="e#13771#13936#0" expanded="false" />
-            <element signature="e#13949#14048#0" expanded="false" />
+            <element signature="e#13894#13993#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -357,8 +363,7 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#16#13753#0" expanded="false" />
-            <element signature="e#13771#13936#0" expanded="false" />
-            <element signature="e#13949#14048#0" expanded="false" />
+            <element signature="e#13894#13993#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -369,8 +374,7 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#16#13753#0" expanded="false" />
-            <element signature="e#13771#13936#0" expanded="false" />
-            <element signature="e#13949#14048#0" expanded="false" />
+            <element signature="e#13894#13993#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -381,8 +385,7 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#16#13753#0" expanded="false" />
-            <element signature="e#13771#13936#0" expanded="false" />
-            <element signature="e#13949#14048#0" expanded="false" />
+            <element signature="e#13894#13993#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -407,8 +410,7 @@
           <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
           <folding>
             <element signature="e#16#13753#0" expanded="false" />
-            <element signature="e#13771#13936#0" expanded="false" />
-            <element signature="e#13949#14048#0" expanded="false" />
+            <element signature="e#13894#13993#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -426,8 +428,7 @@
           <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
           <folding>
             <element signature="e#16#13753#0" expanded="false" />
-            <element signature="e#13771#13936#0" expanded="false" />
-            <element signature="e#13949#14048#0" expanded="false" />
+            <element signature="e#13894#13993#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -461,12 +462,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/data/db.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="442" column="1" selection-start-line="442" selection-start-column="1" selection-end-line="442" selection-end-column="1" />
+        <state relative-caret-position="150">
+          <caret line="437" column="3" selection-start-line="437" selection-start-column="3" selection-end-line="437" selection-end-column="3" />
           <folding>
             <element signature="e#16#13753#0" expanded="false" />
-            <element signature="e#13771#13936#0" expanded="false" />
-            <element signature="e#13949#14048#0" expanded="false" />
+            <element signature="e#13894#13993#0" expanded="false" />
           </folding>
         </state>
       </provider>
