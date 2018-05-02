@@ -1,485 +1,486 @@
 {
     "products": [
         {
-            name: 'Dell Vostro 3568 (Z553505UIN9) (Core i3 -6th Gen /4 GB RAM/ 1 TB HDD/ 39.6 cm (15.6) /Linux) (Black)',
-            category: 'electronics',
-            desc: 'Dell Vostro 3568 (Z553505UIN9) (Core i3 -6th Gen /4 GB RAM/ 1 TB HDD/ 39.6 cm (15.6) /Linux) (Black)',
-            price: 35488,
-            quantity: 5,
-            id: 1
+            "name": "Dell Vostro 3568 (Z553505UIN9) (Core i3 -6th Gen /4 GB RAM/ 1 TB HDD/ 39.6 cm (15.6) /Linux) (Black)",
+            "category": "electronics",
+            "desc": "Dell Vostro 3568 (Z553505UIN9) (Core i3 -6th Gen /4 GB RAM/ 1 TB HDD/ 39.6 cm (15.6) /Linux) (Black)",
+            "price": 35488,
+            "quantity": 5,
+            "id": 1
         },
         {
-            name: 'Dell Inspiron 3567 (Core i3 (6th Gen)/4 GB DDR4/1 TB/15.6" (39.6 cm)/Linux) (Black)',
-            category: 'electronics',
-            desc: 'Dell Inspiron 3567 (Core i3 (6th Gen)/4 GB DDR4/1 TB/15.6" (39.6 cm)/Linux) (Black)',
-            price: 31990,
-            quantity: 5,
-            id: 2
+            "name": "Dell Inspiron 3567 (Core i3 (6th Gen)/4 GB DDR4/1 TB/15.6\" (39.6 cm)/Linux) (Black)",
+            "category": "electronics",
+            "desc": "Dell Inspiron 3567 (Core i3 (6th Gen)/4 GB DDR4/1 TB/15.6\" (39.6 cm)/Linux) (Black)",
+            "price": 31990,
+            "quantity": 5,
+            "id": 2
         },
         {
-            name: 'Dell Inspiron 15-3567 Laptop (Intel Core i3 (6th Gen)/4GB RAM/1 TB HDD/ 15.6 (39.62 cm)/Windows 10) (Black)',
-            category: 'electronics',
-            desc: 'Dell Inspiron 15-3567 Laptop (Intel Core i3 (6th Gen)/4GB RAM/1 TB HDD/ 15.6 (39.62 cm)/Windows 10) (Black)',
-            price: 38997,
-            quantity: 5,
-            id: 3
+            "name": "Dell Inspiron 15-3567 Laptop (Intel Core i3 (6th Gen)/4GB RAM/1 TB HDD/ 15.6 (39.62 cm)/Windows 10) (Black)",
+            "category": "electronics",
+            "desc": "Dell Inspiron 15-3567 Laptop (Intel Core i3 (6th Gen)/4GB RAM/1 TB HDD/ 15.6 (39.62 cm)/Windows 10) (Black)",
+            "price": 38997,
+            "quantity": 5,
+            "id": 3
         },
         {
-            name: 'Apple MacBook Air MQD32HN/A Laptop 2017 (Core i5/8GB RAM/128GB SSD/33.78 cm (13.3")/MacOS Sierra/Intel HD Graphics 6000)',
-            category: 'electronics',
-            desc: 'Apple MacBook Air MQD32HN/A Laptop 2017 (Core i5/8GB RAM/128GB SSD/33.78 cm (13.3")/MacOS Sierra/Intel HD Graphics 6000)',
-            price: 77200,
-            quantity: 5,
-            id: 4
+            "name": "Apple MacBook Air MQD32HN/A Laptop 2017 (Core i5/8GB RAM/128GB SSD/33.78 cm (13.3\")/MacOS Sierra/Intel HD Graphics 6000)",
+            "category": "electronics",
+            "desc": "Apple MacBook Air MQD32HN/A Laptop 2017 (Core i5/8GB RAM/128GB SSD/33.78 cm (13.3\")/MacOS Sierra/Intel HD Graphics 6000)",
+            "price": 77200,
+            "quantity": 5,
+            "id": 4
         },
         {
-            name: 'Dell Inspiron 15 5567 (Core i3 (6th Gen)/4 GB/1 TB/15.6\' (39.62 cm) FHD/Windows 10) (Grey)',
-            category: 'electronics',
-            desc: 'Dell Inspiron 15 5567 (Core i3 (6th Gen)/4 GB/1 TB/15.6\' (39.62 cm) FHD/Windows 10) (Grey)',
-            price: 39738,
-            quantity: 5,
-            id: 5
+            "name": "Dell Inspiron 15 5567 (Core i3 (6th Gen)/4 GB/1 TB/15.6' (39.62 cm) FHD/Windows 10) (Grey)",
+            "category": "electronics",
+            "desc": "Dell Inspiron 15 5567 (Core i3 (6th Gen)/4 GB/1 TB/15.6' (39.62 cm) FHD/Windows 10) (Grey)",
+            "price": 39738,
+            "quantity": 5,
+            "id": 5
         },
         {
-            name: 'HP 15q-bu012TU (Core i3 (6th Gen)/4 GB/39.62 cm (15.6")/1 TB/Windows 10)',
-            category: 'electronics',
-            desc: 'HP 15q-bu012TU (Core i3 (6th Gen)/4 GB/39.62 cm (15.6")/1 TB/Windows 10)',
-            price: 39756,
-            quantity: 5,
-            id: 6
+            "name": "HP 15q-bu012TU (Core i3 (6th Gen)/4 GB/39.62 cm (15.6\")/1 TB/Windows 10)",
+            "category": "electronics",
+            "desc": "HP 15q-bu012TU (Core i3 (6th Gen)/4 GB/39.62 cm (15.6\")/1 TB/Windows 10)",
+            "price": 39756,
+            "quantity": 5,
+            "id": 6
         },
         {
-            name: 'HP 15q-bu008TU Pentium Quad Core 4 GB/ 500 GB/39.624 cm (15.6)/Windows 10',
-            category: 'electronics',
-            desc: 'HP 15q-bu008TU Pentium Quad Core 4 GB/ 500 GB/39.624 cm (15.6)/Windows 10',
-            price: 26223,
-            quantity: 5,
-            id: 7
+            "name": "HP 15q-bu008TU Pentium Quad Core 4 GB/ 500 GB/39.624 cm (15.6)/Windows 10",
+            "category": "electronics",
+            "desc": "HP 15q-bu008TU Pentium Quad Core 4 GB/ 500 GB/39.624 cm (15.6)/Windows 10",
+            "price": 26223,
+            "quantity": 5,
+            "id": 7
         },
         {
-            name: 'Asus X541UA-DM1358D (Core i3 (7th Gen)/4 GB/1TB/39.6 cm (15.6)/Dos) (Silver)',
-            category: 'electronics',
-            desc: 'Asus X541UA-DM1358D (Core i3 (7th Gen)/4 GB/1TB/39.6 cm (15.6)/Dos) (Silver)',
-            price: 32990,
-            quantity: 5,
-            id: 8
+            "name": "Asus X541UA-DM1358D (Core i3 (7th Gen)/4 GB/1TB/39.6 cm (15.6)/Dos) (Silver)",
+            "category": "electronics",
+            "desc": "Asus X541UA-DM1358D (Core i3 (7th Gen)/4 GB/1TB/39.6 cm (15.6)/Dos) (Silver)",
+            "price": 32990,
+            "quantity": 5,
+            "id": 8
         },
         {
-            name: 'Lenovo ideapad 320E-15IKB 80XL0379IN (Intel Core i5 (7th Gen)/8 GB/2 TB HDD/15.6" (39.6 cm)/Windows 10/2 GB Graphics) (Platinum Grey)',
-            category: 'electronics',
-            desc: 'Lenovo ideapad 320E-15IKB 80XL0379IN (Intel Core i5 (7th Gen)/8 GB/2 TB HDD/15.6" (39.6 cm)/Windows 10/2 GB Graphics) (Platinum Grey)',
-            price: 61290,
-            quantity: 5,
-            id: 9
+            "name": "Lenovo ideapad 320E-15IKB 80XL0379IN (Intel Core i5 (7th Gen)/8 GB/2 TB HDD/15.6\" (39.6 cm)/Windows 10/2 GB Graphics) (Platinum Grey)",
+            "category": "electronics",
+            "desc": "Lenovo ideapad 320E-15IKB 80XL0379IN (Intel Core i5 (7th Gen)/8 GB/2 TB HDD/15.6\" (39.6 cm)/Windows 10/2 GB Graphics) (Platinum Grey)",
+            "price": 61290,
+            "quantity": 5,
+            "id": 9
         },
         {
-            name: 'HP Notebook - 15-bs544tu (Core i3 (6th Gen)/8 GB/1 TB/39.62 cm (15.6)/DOS) (Black)',
-            category: 'electronics',
-            desc: 'HP Notebook - 15-bs544tu (Core i3 (6th Gen)/8 GB/1 TB/39.62 cm (15.6)/DOS) (Black)',
-            price: 39445,
-            quantity: 5,
-            id: 10
+            "name": "HP Notebook - 15-bs544tu (Core i3 (6th Gen)/8 GB/1 TB/39.62 cm (15.6)/DOS) (Black)",
+            "category": "electronics",
+            "desc": "HP Notebook - 15-bs544tu (Core i3 (6th Gen)/8 GB/1 TB/39.62 cm (15.6)/DOS) (Black)",
+            "price": 39445,
+            "quantity": 5,
+            "id": 10
         },
         {
-            name: 'The Vanca Summer Cool Dress In Black Color',
-            category: 'clothes',
-            desc: 'The Vanca Summer Cool Dress In Black Color',
-            price: 1999,
-            quantity: 5,
-            id: 11
+            "name": "The Vanca Summer Cool Dress In Black Color",
+            "category": "clothes",
+            "desc": "The Vanca Summer Cool Dress In Black Color",
+            "price": 1999,
+            "quantity": 5,
+            "id": 11
         },
         {
-            name: 'Miss Chase Women\'s Black and White Round Neck Short Sleeves Striped Mini Shift T-Shirt Dress',
-            category: 'clothes',
-            desc: 'Miss Chase Women\'s Black and White Round Neck Short Sleeves Striped Mini Shift T-Shirt Dress',
-            price: 1149,
-            quantity: 5,
-            id: 12
+            "name": "Miss Chase Women's Black and White Round Neck Short Sleeves Striped Mini Shift T-Shirt Dress",
+            "category": "clothes",
+            "desc": "Miss Chase Women's Black and White Round Neck Short Sleeves Striped Mini Shift T-Shirt Dress",
+            "price": 1149,
+            "quantity": 5,
+            "id": 12
         },
         {
-            name: 'Kazo Pink Dress',
-            category: 'clothes',
-            desc: 'Kazo Pink Dress',
-            price: 2190,
-            quantity: 5,
-            id: 13
+            "name": "Kazo Pink Dress",
+            "category": "clothes",
+            "desc": "Kazo Pink Dress",
+            "price": 2190,
+            "quantity": 5,
+            "id": 13
         },
         {
-            name: 'Marie Claire Multicolor Printed Dress',
-            category: 'clothes',
-            desc: 'Marie Claire Multicolor Printed Dress',
-            price: 2299,
-            quantity: 5,
-            id: 14
+            "name": "Marie Claire Multicolor Printed Dress",
+            "category": "clothes",
+            "desc": "Marie Claire Multicolor Printed Dress",
+            "price": 2299,
+            "quantity": 5,
+            "id": 14
         },
         {
-            name: 'Burgundy Long Sleeve Casual Babydoll Dress',
-            category: 'clothes',
-            desc: 'Burgundy Long Sleeve Casual Babydoll Dress',
-            price: 1068,
-            quantity: 5,
-            id: 15
+            "name": "Burgundy Long Sleeve Casual Babydoll Dress",
+            "category": "clothes",
+            "desc": "Burgundy Long Sleeve Casual Babydoll Dress",
+            "price": 1068,
+            "quantity": 5,
+            "id": 15
         },
         {
-            name: 'Vero Moda Women\'s Casual Dresses',
-            category: 'clothes',
-            desc: 'Vero Moda Women\'s Casual Dresses',
-            price: 2695,
-            quantity: 5,
-            id: 16
+            "name": "Vero Moda Women's Casual Dresses",
+            "category": "clothes",
+            "desc": "Vero Moda Women's Casual Dresses",
+            "price": 2695,
+            "quantity": 5,
+            "id": 16
         },
         {
-            name: 'Abiti Bella Women\'s Black Cold shoulder Dress',
-            category: 'clothes',
-            desc: 'Abiti Bella Women\'s Black Cold shoulder Dress',
-            price: 1599,
-            quantity: 5,
-            id: 17
+            "name": "Abiti Bella Women's Black Cold shoulder Dress",
+            "category": "clothes",
+            "desc": "Abiti Bella Women's Black Cold shoulder Dress",
+            "price": 1599,
+            "quantity": 5,
+            "id": 17
         },
         {
-            name: 'Chess Print Skater Dress',
-            category: 'clothes',
-            desc: 'Chess Print Skater Dress',
-            price: 1399,
-            quantity: 5,
-            id: 18
+            "name": "Chess Print Skater Dress",
+            "category": "clothes",
+            "desc": "Chess Print Skater Dress",
+            "price": 1399,
+            "quantity": 5,
+            "id": 18
         },
         {
-            name: 'Tokyo Talkies Casual Dress',
-            category: 'clothes',
-            desc: 'Tokyo Talkies Casual Dress',
-            price: 1149,
-            quantity: 5,
-            id: 19
+            "name": "Tokyo Talkies Casual Dress",
+            "category": "clothes",
+            "desc": "Tokyo Talkies Casual Dress",
+            "price": 1149,
+            "quantity": 5,
+            "id": 19
         },
         {
-            name: 'Juniper Teal Printed Cold Shoulder Sleeves Flared Festive Long Dress',
-            category: 'clothes',
-            desc: 'Juniper Teal Printed Cold Shoulder Sleeves Flared Festive Long Dress',
-            price: 2799,
-            quantity: 5,
-            id: 20
+            "name": "Juniper Teal Printed Cold Shoulder Sleeves Flared Festive Long Dress",
+            "category": "clothes",
+            "desc": "Juniper Teal Printed Cold Shoulder Sleeves Flared Festive Long Dress",
+            "price": 2799,
+            "quantity": 5,
+            "id": 20
         },
         {
-            name: 'Roop Mantra Face Cream 60gm (Pack of 4) Ayurvedic Skin Cream',
-            category: 'skin-care',
-            desc: 'Roop Mantra Face Cream 60gm (Pack of 4) Ayurvedic Skin Cream',
-            price: 744,
-            quantity: 5,
-            id: 21
+            "name": "Roop Mantra Face Cream 60gm (Pack of 4) Ayurvedic Skin Cream",
+            "category": "skin-care",
+            "desc": "Roop Mantra Face Cream 60gm (Pack of 4) Ayurvedic Skin Cream",
+            "price": 744,
+            "quantity": 5,
+            "id": 21
         },
         {
-            name: 'Roop Mantra Face Cream 60gm (Pack of 5) Ayurvedic Skin Cream',
-            category: 'skin-care',
-            desc: 'Roop Mantra Face Cream 60gm (Pack of 5) Ayurvedic Skin Cream',
-            price: 930,
-            quantity: 5,
-            id: 22
+            "name": "Roop Mantra Face Cream 60gm (Pack of 5) Ayurvedic Skin Cream",
+            "category": "skin-care",
+            "desc": "Roop Mantra Face Cream 60gm (Pack of 5) Ayurvedic Skin Cream",
+            "price": 930,
+            "quantity": 5,
+            "id": 22
         },
         {
-            name: 'Dabur Gulabari Moisturizing Cold Cream (Skin Moisturiser) 55ml with Free Dabur Gulabari Premium Rose water 59ml',
-            category: 'skin-care',
-            desc: 'Dabur Gulabari Moisturizing Cold Cream (Skin Moisturiser) 55ml with Free Dabur Gulabari Premium Rose water 59ml',
-            price: 75,
-            quantity: 5,
-            id: 23
+            "name": "Dabur Gulabari Moisturizing Cold Cream (Skin Moisturiser) 55ml with Free Dabur Gulabari Premium Rose water 59ml",
+            "category": "skin-care",
+            "desc": "Dabur Gulabari Moisturizing Cold Cream (Skin Moisturiser) 55ml with Free Dabur Gulabari Premium Rose water 59ml",
+            "price": 75,
+            "quantity": 5,
+            "id": 23
         },
         {
-            name: 'Roop Mantra Face Cream 60gm (Pack of 2) Ayurvedic Skin Cream',
-            category: 'skin-care',
-            desc: 'Roop Mantra Face Cream 60gm (Pack of 2) Ayurvedic Skin Cream',
-            price: 372,
-            quantity: 5,
-            id: 24
+            "name": "Roop Mantra Face Cream 60gm (Pack of 2) Ayurvedic Skin Cream",
+            "category": "skin-care",
+            "desc": "Roop Mantra Face Cream 60gm (Pack of 2) Ayurvedic Skin Cream",
+            "price": 372,
+            "quantity": 5,
+            "id": 24
         },
         {
-            name: 'Roop Mantra Fairness Face Cream 30gm (Ayurvedic), Pack of 5',
-            category: 'skin-care',
-            desc: 'Roop Mantra Fairness Face Cream 30gm (Ayurvedic), Pack of 5',
-            price: 465,
-            quantity: 5,
-            id: 25
+            "name": "Roop Mantra Fairness Face Cream 30gm (Ayurvedic), Pack of 5",
+            "category": "skin-care",
+            "desc": "Roop Mantra Fairness Face Cream 30gm (Ayurvedic), Pack of 5",
+            "price": 465,
+            "quantity": 5,
+            "id": 25
         },
         {
-            name: 'Roop Mantra Cucumber Face Wash (Pack of 5)',
-            category: 'skin-care',
-            desc: 'Roop Mantra Cucumber Face Wash (Pack of 5)',
-            price: 415,
-            quantity: 5,
-            id: 26
+            "name": "Roop Mantra Cucumber Face Wash (Pack of 5)",
+            "category": "skin-care",
+            "desc": "Roop Mantra Cucumber Face Wash (Pack of 5)",
+            "price": 415,
+            "quantity": 5,
+            "id": 26
         },
         {
-            name: 'Roop Mantra Herbal Cucumber Face Wash 115ml (Pack of 4)',
-            category: 'skin-care',
-            desc: 'Roop Mantra Herbal Cucumber Face Wash 115ml (Pack of 4)',
-            price: 332,
-            quantity: 5,
-            id: 27
+            "name": "Roop Mantra Herbal Cucumber Face Wash 115ml (Pack of 4)",
+            "category": "skin-care",
+            "desc": "Roop Mantra Herbal Cucumber Face Wash 115ml (Pack of 4)",
+            "price": 332,
+            "quantity": 5,
+            "id": 27
         },
         {
-            name: 'Roop Mantra Ayurvedic Fairness Cream 30gm (Pack of 3)',
-            category: 'skin-care',
-            desc: 'Roop Mantra Ayurvedic Fairness Cream 30gm (Pack of 3)',
-            price: 279,
-            quantity: 5,
-            id: 28
+            "name": "Roop Mantra Ayurvedic Fairness Cream 30gm (Pack of 3)",
+            "category": "skin-care",
+            "desc": "Roop Mantra Ayurvedic Fairness Cream 30gm (Pack of 3)",
+            "price": 279,
+            "quantity": 5,
+            "id": 28
         },
         {
-            name: 'Roop Mantra Herbal Cucumber Face Wash 115ml (Pack of 3)',
-            category: 'skin-care',
-            desc: 'Roop Mantra Herbal Cucumber Face Wash 115ml (Pack of 3)',
-            price: 249,
-            quantity: 5,
-            id: 29
+            "name": "Roop Mantra Herbal Cucumber Face Wash 115ml (Pack of 3)",
+            "category": "skin-care",
+            "desc": "Roop Mantra Herbal Cucumber Face Wash 115ml (Pack of 3)",
+            "price": 249,
+            "quantity": 5,
+            "id": 29
         },
         {
-            name: 'Roop Mantra Fairness Face Cream 30gm (Ayurvedic), Pack of 4',
-            category: 'skin-care',
-            desc: 'Roop Mantra Fairness Face Cream 30gm (Ayurvedic), Pack of 4',
-            price: 372,
-            quantity: 5,
-            id: 30
+            "name": "Roop Mantra Fairness Face Cream 30gm (Ayurvedic), Pack of 4",
+            "category": "skin-care",
+            "desc": "Roop Mantra Fairness Face Cream 30gm (Ayurvedic), Pack of 4",
+            "price": 372,
+            "quantity": 5,
+            "id": 30
         },
         {
-            name: 'Smart Auto Sensor Night Light Lamp',
-            category: 'home-decor',
-            desc: 'Smart Auto Sensor Night Light Lamp',
-            price: 499,
-            quantity: 5,
-            id: 31
+            "name": "Smart Auto Sensor Night Light Lamp",
+            "category": "home-decor",
+            "desc": "Smart Auto Sensor Night Light Lamp",
+            "price": 499,
+            "quantity": 5,
+            "id": 31
         },
         {
-            name: 'Bedroom Decor Tulip Mushroom Colorful Light-sensation Nightlight Nightlamp',
-            category: 'home-decor',
-            desc: 'Bedroom Decor Tulip Mushroom Colorful Light-sensation Nightlight Nightlamp',
-            price: 862,
-            quantity: 5,
-            id: 32
+            "name": "Bedroom Decor Tulip Mushroom Colorful Light-sensation Nightlight Nightlamp",
+            "category": "home-decor",
+            "desc": "Bedroom Decor Tulip Mushroom Colorful Light-sensation Nightlight Nightlamp",
+            "price": 862,
+            "quantity": 5,
+            "id": 32
         },
         {
-            name: 'Wireless Tap Touch Night Light Lamp',
-            category: 'home-decor',
-            desc: 'Wireless Tap Touch Night Light Lamp',
-            price: 499,
-            quantity: 5,
-            id: 33
+            "name": "Wireless Tap Touch Night Light Lamp",
+            "category": "home-decor",
+            "desc": "Wireless Tap Touch Night Light Lamp",
+            "price": 499,
+            "quantity": 5,
+            "id": 33
         },
         {
-            name: 'Waterproof Outdoor Plastic Solar Power Garden Pathway Lamp',
-            category: 'home-decor',
-            desc: 'Waterproof Outdoor Plastic Solar Power Garden Pathway Lamp',
-            price: 599,
-            quantity: 5,
-            id: 34
+            "name": "Waterproof Outdoor Plastic Solar Power Garden Pathway Lamp",
+            "category": "home-decor",
+            "desc": "Waterproof Outdoor Plastic Solar Power Garden Pathway Lamp",
+            "price": 599,
+            "quantity": 5,
+            "id": 34
         },
         {
-            name: '9pcs/Set Square Mirror Tile Wall Stickers 3D-Removable Decal',
-            category: 'home-decor',
-            desc: '9pcs/Set Square Mirror Tile Wall Stickers 3D-Removable Decal',
-            price: 646,
-            quantity: 5,
-            id: 35
+            "name": "9pcs/Set Square Mirror Tile Wall Stickers 3D-Removable Decal",
+            "category": "home-decor",
+            "desc": "9pcs/Set Square Mirror Tile Wall Stickers 3D-Removable Decal",
+            "price": 646,
+            "quantity": 5,
+            "id": 35
         },
         {
-            name: 'WallTola Krishna Modern Art Wall Sticker',
-            category: 'home-decor',
-            desc: 'WallTola Krishna Modern Art Wall Sticker',
-            price: 650,
-            quantity: 5,
-            id: 36
+            "name": "WallTola Krishna Modern Art Wall Sticker",
+            "category": "home-decor",
+            "desc": "WallTola Krishna Modern Art Wall Sticker",
+            "price": 650,
+            "quantity": 5,
+            "id": 36
         },
         {
-            name: 'Portable Cordless Mini Hand-held Clothes Fabrics Sewing Machine Assorted',
-            category: 'home-decor',
-            desc: 'Portable Cordless Mini Hand-held Clothes Fabrics Sewing Machine Assorted',
-            price: 821,
-            quantity: 5,
-            id: 37
+            "name": "Portable Cordless Mini Hand-held Clothes Fabrics Sewing Machine Assorted",
+            "category": "home-decor",
+            "desc": "Portable Cordless Mini Hand-held Clothes Fabrics Sewing Machine Assorted",
+            "price": 821,
+            "quantity": 5,
+            "id": 37
         },
         {
-            name: 'Smart Sensor Night Lamp',
-            category: 'home-decor',
-            desc: 'Smart Sensor Night Lamp',
-            price: 499,
-            quantity: 5,
-            id: 38
+            "name": "Smart Sensor Night Lamp",
+            "category": "home-decor",
+            "desc": "Smart Sensor Night Lamp",
+            "price": 499,
+            "quantity": 5,
+            "id": 38
         },
         {
-            name: 'Shree Dhan Laxmi Kuber Dhan Versha Yantra',
-            category: 'home-decor',
-            desc: 'Shree Dhan Laxmi Kuber Dhan Versha Yantra',
-            price: 299,
-            quantity: 5,
-            id: 39
+            "name": "Shree Dhan Laxmi Kuber Dhan Versha Yantra",
+            "category": "home-decor",
+            "desc": "Shree Dhan Laxmi Kuber Dhan Versha Yantra",
+            "price": 299,
+            "quantity": 5,
+            "id": 39
         },
         {
-            name: 'WallTola Wall Decals Tree With Birds And Cages Wall Sticker',
-            category: 'home-decor',
-            desc: 'WallTola Wall Decals Tree With Birds And Cages Wall Sticker',
-            price: 799,
-            quantity: 5,
-            id: 40
+            "name": "WallTola Wall Decals Tree With Birds And Cages Wall Sticker",
+            "category": "home-decor",
+            "desc": "WallTola Wall Decals Tree With Birds And Cages Wall Sticker",
+            "price": 799,
+            "quantity": 5,
+            "id": 40
         },
         {
-            name: 'Eveready Spike Guard SG01- Surge Protector ',
-            category: 'stationary',
-            desc: 'Eveready Spike Guard SG01- Surge Protector ',
-            price: 499,
-            quantity: 5,
-            id: 41
+            "name": "Eveready Spike Guard SG01- Surge Protector ",
+            "category": "stationary",
+            "desc": "Eveready Spike Guard SG01- Surge Protector ",
+            "price": 499,
+            "quantity": 5,
+            "id": 41
         },
         {
-            name: 'Morpho Bio-metric Fingerprint Scanner, MSO 1300 E3, Latest Version, With USB Port, Red & Black',
-            category: 'stationary',
-            desc: 'Morpho Bio-metric Fingerprint Scanner, MSO 1300 E3, Latest Version, With USB Port, Red & Black',
-            price: 5500,
-            quantity: 5,
-            id: 42
+            "name": "Morpho Bio-metric Fingerprint Scanner, MSO 1300 E3, Latest Version, With USB Port, Red & Black",
+            "category": "stationary",
+            "desc": "Morpho Bio-metric Fingerprint Scanner, MSO 1300 E3, Latest Version, With USB Port, Red & Black",
+            "price": 5500,
+            "quantity": 5,
+            "id": 42
         },
         {
-            name: 'Table Desk Clock and Pen Holder',
-            category: 'stationary',
-            desc: 'Table Desk Clock and Pen Holder',
-            price: 676,
-            quantity: 5,
-            id: 43
+            "name": "Table Desk Clock and Pen Holder",
+            "category": "stationary",
+            "desc": "Table Desk Clock and Pen Holder",
+            "price": 676,
+            "quantity": 5,
+            "id": 43
         },
         {
-            name: 'Safran Morpho Mso1300 E2',
-            category: 'stationary',
-            desc: 'Safran Morpho Mso1300 E2',
-            price: 5999,
-            quantity: 5,
-            id: 44
+            "name": "Safran Morpho Mso1300 E2",
+            "category": "stationary",
+            "desc": "Safran Morpho Mso1300 E2",
+            "price": 5999,
+            "quantity": 5,
+            "id": 44
         },
         {
-            name: 'Kores 20-Sheet Cross Cut And Longrun  Heavy Duty',
-            category: 'stationary',
-            desc: 'Kores 20-Sheet Cross Cut And Longrun  Heavy Duty',
-            price: 23990,
-            quantity: 5,
-            id: 45
+            "name": "Kores 20-Sheet Cross Cut And Longrun  Heavy Duty",
+            "category": "stationary",
+            "desc": "Kores 20-Sheet Cross Cut And Longrun  Heavy Duty",
+            "price": 23990,
+            "quantity": 5,
+            "id": 45
         },
         {
-            name: 'Elcor Tripod Projector screens size 9ft x 12ft with 180 Inch diagonal with 3D HDTV support',
-            category: 'stationary',
-            desc: 'Elcor Tripod Projector screens size 9ft x 12ft with 180 Inch diagonal with 3D HDTV support',
-            price: 50000,
-            quantity: 5,
-            id: 46
+            "name": "Elcor Tripod Projector screens size 9ft x 12ft with 180 Inch diagonal with 3D HDTV support",
+            "category": "stationary",
+            "desc": "Elcor Tripod Projector screens size 9ft x 12ft with 180 Inch diagonal with 3D HDTV support",
+            "price": 50000,
+            "quantity": 5,
+            "id": 46
         },
         {
-            name: 'Waterman Carene Essential Silver ST Fountain Pen',
-            category: 'stationary',
-            desc: 'Waterman Carene Essential Silver ST Fountain Pen',
-            price: 20000,
-            quantity: 5,
-            id: 47
+            "name": "Waterman Carene Essential Silver ST Fountain Pen",
+            "category": "stationary",
+            "desc": "Waterman Carene Essential Silver ST Fountain Pen",
+            "price": 20000,
+            "quantity": 5,
+            "id": 47
         },
         {
-            name: 'Waterman Carene Essential Black & Gold GT Fountain Pen',
-            category: 'stationary',
-            desc: 'Waterman Carene Essential Black & Gold GT Fountain Pen',
-            price: 19000,
-            quantity: 5,
-            id: 48
+            "name": "Waterman Carene Essential Black & Gold GT Fountain Pen",
+            "category": "stationary",
+            "desc": "Waterman Carene Essential Black & Gold GT Fountain Pen",
+            "price": 19000,
+            "quantity": 5,
+            "id": 48
         },
         {
-            name: 'SCORIA Cltiizen Electronic Basic Calculator-CT512_100',
-            category: 'stationary',
-            desc: 'SCORIA Cltiizen Electronic Basic Calculator-CT512_100',
-            price: 500,
-            quantity: 5,
-            id: 49
+            "name": "SCORIA Cltiizen Electronic Basic Calculator-CT512_100",
+            "category": "stationary",
+            "desc": "SCORIA Cltiizen Electronic Basic Calculator-CT512_100",
+            "price": 500,
+            "quantity": 5,
+            "id": 49
         },
         {
-            name: 'Morpho MSO1300E Single Finger Scanner ',
-            category: 'stationary',
-            desc: 'Morpho MSO1300E Single Finger Scanner ',
-            price: 3990,
-            quantity: 5,
-            id: 50
+            "name": "Morpho MSO1300E Single Finger Scanner ",
+            "category": "stationary",
+            "desc": "Morpho MSO1300E Single Finger Scanner ",
+            "price": 3990,
+            "quantity": 5,
+            "id": 50
         },
         {
-            name: 'Honda CB Shine SP',
-            category: 'automobiles',
-            desc: 'Honda CB Shine SP',
-            price: 70018,
-            quantity: 5,
-            id: 51
+            "name": "Honda CB Shine SP",
+            "category": "automobiles",
+            "desc": "Honda CB Shine SP",
+            "price": 70018,
+            "quantity": 5,
+            "id": 51
         },
         {
-            name: 'Honda CB Unicorn 150',
-            category: 'automobiles',
-            desc: 'Honda CB Unicorn 150',
-            price: 69536,
-            quantity: 5,
-            id: 52
+            "name": "Honda CB Unicorn 150",
+            "category": "automobiles",
+            "desc": "Honda CB Unicorn 150",
+            "price": 69536,
+            "quantity": 5,
+            "id": 52
         },
         {
-            name: 'Yamaha R15s ',
-            category: 'automobiles',
-            desc: 'Yamaha R15s ',
-            price: 115746,
-            quantity: 5,
-            id: 53
+            "name": "Yamaha R15s ",
+            "category": "automobiles",
+            "desc": "Yamaha R15s ",
+            "price": 115746,
+            "quantity": 5,
+            "id": 53
         },
         {
-            name: 'Yamaha R15s ',
-            category: 'automobiles',
-            desc: 'Yamaha R15s ',
-            price: 20000,
-            quantity: 5,
-            id: 54
+            "name": "Yamaha R15s ",
+            "category": "automobiles",
+            "desc": "Yamaha R15s ",
+            "price": 20000,
+            "quantity": 5,
+            "id": 54
         },
         {
-            name: 'Suzuki Hayate Ep',
-            category: 'automobiles',
-            desc: 'Suzuki Hayate Ep',
-            price: 54469,
-            quantity: 5,
-            id: 55
+            "name": "Suzuki Hayate Ep",
+            "category": "automobiles",
+            "desc": "Suzuki Hayate Ep",
+            "price": 54469,
+            "quantity": 5,
+            "id": 55
         },
         {
-            name: 'Gixxer (Drum) (2017 Edition)',
-            category: 'automobiles',
-            desc: 'Gixxer (Drum) (2017 Edition)',
-            price: 76919,
-            quantity: 5,
-            id: 56
+            "name": "Gixxer (Drum) (2017 Edition)",
+            "category": "automobiles",
+            "desc": "Gixxer (Drum) (2017 Edition)",
+            "price": 76919,
+            "quantity": 5,
+            "id": 56
         },
         {
-            name: 'Gixxer (Drum) (2017 Edition)',
-            category: 'automobiles',
-            desc: 'Gixxer (Drum) (2017 Edition)',
-            price: 20000,
-            quantity: 5,
-            id: 57
+            "name": "Gixxer (Drum) (2017 Edition)",
+            "category": "automobiles",
+            "desc": "Gixxer (Drum) (2017 Edition)",
+            "price": 20000,
+            "quantity": 5,
+            "id": 57
         },
         {
-            name: 'Gixxer (Disc) (2017 Edition)',
-            category: 'automobiles',
-            desc: 'Gixxer (Disc) (2017 Edition)',
-            price: 80024,
-            quantity: 5,
-            id: 58
+            "name": "Gixxer (Disc) (2017 Edition)",
+            "category": "automobiles",
+            "desc": "Gixxer (Disc) (2017 Edition)",
+            "price": 80024,
+            "quantity": 5,
+            "id": 58
         },
         {
-            name: 'Suzuki Gixxer SF (2017 Edition)',
-            category: 'automobiles',
-            desc: 'Suzuki Gixxer SF (2017 Edition)',
-            price: 88995,
-            quantity: 5,
-            id: 59
+            "name": "Suzuki Gixxer SF (2017 Edition)",
+            "category": "automobiles",
+            "desc": "Suzuki Gixxer SF (2017 Edition)",
+            "price": 88995,
+            "quantity": 5,
+            "id": 59
         },
         {
-            name: 'Gixxer (Disc) (2017 Edition)',
-            category: 'automobiles',
-            desc: 'Gixxer (Disc) (2017 Edition)',
-            price: 20000,
-            quantity: 5,
-            id: 60
-        }],
+            "name": "Gixxer (Disc) (2017 Edition)",
+            "category": "automobiles",
+            "desc": "Gixxer (Disc) (2017 Edition)",
+            "price": 20000,
+            "quantity": 5,
+            "id": 60
+        }
+    ],
     "categories": [
         "electronics",
         "clothes",
